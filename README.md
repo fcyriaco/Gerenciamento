@@ -1,2 +1,2 @@
 # Gerenciamento
-Repositório com codigos para gerência de redes.
+Repositório com códigos para gerência de redes.
